@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0574_000-J.yaml, hash: 'sha256:e2f8d3d8f9b1a73719e01d7931df80394d218f65af748d2e759a31af59afdc2c'}
+  - {seq: 0, filename: KR6q0574_000-J.yaml, hash: 'sha256:c9176371c22822755f9747d51c78f31c9469185281f2fe33322b5f565eeb7c4c'}
   - {seq: 1, filename: KR6q0574_001-J.yaml, hash: 'sha256:6fbed3df5c38447305420a4caff5ac6708b1bb448ce4a950b20015987eedc840'}
   - {seq: 2, filename: KR6q0574_002-J.yaml, hash: 'sha256:a10eee07094b41d313704537f3d1aa86264dd2267683ddef8ce3f44a6f4a6b3a'}
   - {seq: 3, filename: KR6q0574_003-J.yaml, hash: 'sha256:d02459b0358ddb382e0534272071f6fda104265d0a4fb2e2e6c2d96f812532c6'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6q0574_005-J.yaml, hash: 'sha256:f3e7a51f034a8f4ec393ef477100619aa08f52def83dbbebf19438728fe08a79'}
   - {seq: 6, filename: KR6q0574_006-J.yaml, hash: 'sha256:f0e869887de3573a2a665ebb27eebc5e47d3df18ab0f011953d88034d8342fcc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0574_000-J.markers.yaml, hash: 'sha256:ff7e0860c329615260efdd4be190e481485439a86bd4f5d02da41d2e1e0c8af7'}
+  - {seq: 0, role: markers, filename: assets/KR6q0574_000-J.markers.yaml, hash: 'sha256:2417538342b4b939175e33821917ee28b3eb62ddfd0b5ff3c3d62dc162ed7f12'}
   - {seq: 1, role: markers, filename: assets/KR6q0574_001-J.markers.yaml, hash: 'sha256:59d15c192003cb4fed7fecca99931d59b6cdb58381de2f152c575e62a5c6ed1e'}
   - {seq: 2, role: markers, filename: assets/KR6q0574_002-J.markers.yaml, hash: 'sha256:11ec59768f308cb115f3c1e2440d3e9673eaf922956643cd7ba2b000f7b035d4'}
   - {seq: 3, role: markers, filename: assets/KR6q0574_003-J.markers.yaml, hash: 'sha256:8da2d005f1b4900d44853b7a26171ff678f06f9bce6d72509c44b565a5e50158'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0574_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 敘
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0574_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 毛鵑敘
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0574_J_000-mulu-3
     span:
-    - front
+    - body
     - 486
     - 486
   label: 張發辰敘
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0574_J_000-mulu-4
     span:
-    - front
+    - body
     - 831
     - 831
   label: 目錄
@@ -805,4 +805,4 @@ table_of_contents:
   label: 嗣法門人位次
   type: mulu
   level: 1
-hash: sha256:e1e5ade4d5127482d5ea1e1d90e26f11d206e81f4146e168f2749c966202de55
+hash: sha256:1ff239144aa081cdc37ea3bb93a98a44f9ebef223ffe072cb6e85de540de4175
